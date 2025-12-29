@@ -68,4 +68,4 @@ chicago-taxi-sql-project/
 │   ├── 11_avg_trip_duration_and_speed_by_hour.sql
 │   └── 12_top_routes.sql
 └── screenshots/
-    └── dashboard_and_chart_exports.png (optional)
+    └── dashboard_and_chart_exports.png
