@@ -15,7 +15,7 @@ The goal is to answer real business questions a data analyst or BI intern would 
 
 ---
 
-## 🧾 Dataset
+## Dataset
 
 - **Source:** `bigquery-public-data.chicago_taxi_trips.taxi_trips` (Google BigQuery public datasets)
 - **Grain:** One row per taxi trip
@@ -30,7 +30,7 @@ This dataset contains tens of millions of taxi trips across multiple years, whic
 
 ---
 
-## 🧠 Key Business Questions
+## Key Business Questions
 
 1. What is the monthly trend of taxi trip volume?
 2. Which pickup neighborhoods generate the most trips?
@@ -49,7 +49,7 @@ Each of these questions is answered with a dedicated SQL query in the `queries/`
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 chicago-taxi-sql-project/
