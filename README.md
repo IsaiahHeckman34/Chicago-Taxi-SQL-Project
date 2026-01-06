@@ -69,3 +69,9 @@ chicago-taxi-sql-project/
 │   └── 12_top_routes.sql
 └── screenshots/
     └── dashboard_and_chart_exports.png
+
+---
+
+## Live Tableau Dashboard
+
+View the interactive dashboard here: https://public.tableau.com/app/profile/isaiah.heckman/viz/ChicagoTaxiTripsAnalysis_17677406318890/ChicagoTaxiTrips?publish=yes
