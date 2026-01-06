@@ -68,7 +68,13 @@ chicago-taxi-sql-project/
 │   ├── 11_avg_trip_duration_and_speed_by_hour.sql
 │   └── 12_top_routes.sql
 └── screenshots/
-    └── dashboard_and_chart_exports.png
+├── Chicago Taxi Analysis Overview.png
+├── Trips per Month Screenshot.png
+├── Busiest Times Screenshot.png
+├── Avg Distance by Hour Screenshot.png
+├── Neighborhood Revenue Screenshot.png
+├── Top Taxi Companies by Revenue Screenshot.png
+└── Revenue by Payment types screenshot.png
 
 ---
 
