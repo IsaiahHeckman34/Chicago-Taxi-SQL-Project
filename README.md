@@ -49,6 +49,17 @@ Each of these questions is answered with a dedicated SQL query in the `queries/`
 
 ---
 
+## Key Insights Summary
+
+• Taxi demand peaks during evening hours and weekends  
+• Monthly trips dropped sharply in 2020 and are slowly recovering  
+• A small number of neighborhoods generate most taxi revenue  
+• Credit card payments account for the majority of total revenue  
+• The taxi market is concentrated among a few major companies  
+• Early-morning trips tend to be longer on average, likely airport-related
+
+---
+
 ## Project Structure
 
 ```bash
